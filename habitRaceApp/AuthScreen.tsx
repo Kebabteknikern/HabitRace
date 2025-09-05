@@ -74,4 +74,5 @@ export default function AuthScreen() {
       {sent && <Text style={{ marginTop: 12 }}>Kolla din e-post...</Text>}
     </View>
   );
-}
+
+
