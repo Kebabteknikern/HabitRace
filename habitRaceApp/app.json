@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "HabitRace",
+    "slug": "habit-race",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "jsEngine": "hermes",
+    "platforms": ["ios", "android"],
+    "extra": {
+      "supabaseUrl": "https://aahoukmptnrndrfidvaj.supabase.co",
+      "supabaseAnonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFhaG91a21wdG5ybmRyZmlkdmFqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTcwNzc1NjMsImV4cCI6MjA3MjY1MzU2M30.yjxzyA0H8lHiqDwYBwofAzNPchkO-LSetG5G96TpLzY"
+    }
+  }
+}
